@@ -1,0 +1,7 @@
+[package]
+name = "belR"
+version = "0.1.0"
+authors = ["senjaya <amarpanjis@gmail.com>"]
+
+[dependencies]
+rand = "" 
